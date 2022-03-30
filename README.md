@@ -44,7 +44,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
  ![screenshot](./images/sc2.PNG)
 
 ## Deployed LInk
-Live URL for portfolio on Herokku: 
+Live URL for portfolio on Herokku: https://portfolio38.herokuapp.com/abilalu/react-portfolio/contact
+
+
+
+
+
 
 # Getting Started with Create React App
 
