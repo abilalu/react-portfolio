@@ -1,0 +1,87 @@
+.footer {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    color:lavender !important;
+}
+
+.contactme {
+    color:black !important;
+}
+
+.nav {
+    padding: 2%;
+    font-size: 1.5em;
+}
+
+.headerText {
+    display: inline-block;
+    width: 90%;
+    padding-left:2%;
+    font-size: 2.5em;
+}
+
+.side {
+    padding: left 1px;
+}
+
+.profile {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    border: thin solid blue;
+    border-radius: 30px;
+}
+
+.hero1 {
+    width: 100%;
+}
+
+.Wrapper {
+    margin:2.5%;
+    padding: 1%;
+    width:22%;
+    float:left;
+    border: thin solid blue;
+}
+
+.proWrap {
+        margin:3%;
+        padding: 1%;
+        width:24%;
+        float:left;
+        border: thin solid blue;
+}
+
+.portImg {
+    width: 100%;
+}
+
+  .projectImg {
+    width: 60%;
+    margin:6%;
+    border: thin solid blue;
+}
+
+@media only screen and (max-width: 600px) {
+    .projectImg {
+        width: 100%;
+        margin:2%;
+        border: thin solid gray;
+    }
+  }
+
+  .btn {
+      margin: 1%;
+  }
+
+  .bold {
+      font-weight: 600;
+  }
+
+  .contactImg {
+      width:5%;
+      margin: 1%;
+  }

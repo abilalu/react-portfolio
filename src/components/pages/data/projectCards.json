@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "cardname": "Weather Dashboard",
+      "image": "https://raw.githubusercontent.com/abilalu/react-portfolio/main/images/port1.png",
+      "livelink": "https://abilalu.github.io/WeatherDashboard/",
+      "codelink": "https://github.com/abilalu/WeatherDashboard"
+    },
+    {
+        "id": 2,
+        "cardname": "Gaggle",
+        "image": "https://raw.githubusercontent.com/abilalu/react-portfolio/main/images/port2.png",
+        "livelink": "https://gagglechat.herokuapp.com/",
+        "codelink": "https://github.com/jollypong/Gaggle"
+    },
+    {
+        "id": 3,
+        "cardname": "iDrink",
+        "image": "https://raw.githubusercontent.com/abilalu/react-portfolio/main/images/port3.png",
+        "livelink": "https://nkrilis.github.io/iDrink/",
+        "codelink": "https://github.com/nkrilis/iDrink"
+    },
+    {
+        "id": 4,
+        "cardname": "Note Taker",
+        "image": "https://raw.githubusercontent.com/abilalu/react-portfolio/main/images/port4.png",
+        "livelink": "https://notetaker789.herokuapp.com/s",
+        "codelink": "https://github.com/abilalu/Note_Taker"
+    }
+    
+]    
